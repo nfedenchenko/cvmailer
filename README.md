@@ -1,0 +1,2 @@
+# cvmailer
+CV mailing platform
